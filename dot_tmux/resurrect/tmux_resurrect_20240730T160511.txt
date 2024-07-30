@@ -1,0 +1,7 @@
+pane	~/_config/nvim/	1	1	:*	1	archcraft	:/home/ikkyuu	1	zsh	:
+pane	~/_thekittipongpras/	1	1	:*	1	archcraft	:/home/ikkyuu	1	zsh	:
+pane	~/kusrc/	1	1	:*	1	archcraft	:/home/ikkyuu	1	zsh	:
+window	~/_config/nvim/	1	:	1	:*	ba5e,88x44,0,0,1	off
+window	~/_thekittipongpras/	1	:main	1	:*	ba5f,88x44,0,0,2	off
+window	~/kusrc/	1	:	1	:*	ba60,88x44,0,0,3	off
+state	~/_thekittipongpras/	~/_config/nvim/

@@ -1,0 +1,23 @@
+0000000000000000000000000000000000000000 9d35b23bd494d59f7c15d985fa3d57be5eb2e417 ikkyuuq <kittipongprasompong@gmail.com> 1721313999 +0700	commit (initial): full nvim configuration #1
+9d35b23bd494d59f7c15d985fa3d57be5eb2e417 a762f4d395bfcd462a5a3df38d2b37e899342548 ikkyuuq <kittipongprasompong@gmail.com> 1721315544 +0700	commit: add README.md
+a762f4d395bfcd462a5a3df38d2b37e899342548 3fb266199cbc890593970f29f3d1f9983e2e01e2 ikkyuuq <kittipongprasompong@gmail.com> 1721378730 +0700	commit: fix keymaps, add telescope-zoxide plugin
+3fb266199cbc890593970f29f3d1f9983e2e01e2 6941707b97c4da9899b539ce70a16324525b8d73 ikkyuuq <kittipongprasompong@gmail.com> 1721378947 +0700	commit: update README.md
+6941707b97c4da9899b539ce70a16324525b8d73 552910ed59ce5066302935d16c73f5e510addd76 ikkyuuq <kittipongprasompong@gmail.com> 1721378985 +0700	commit: update README.md
+552910ed59ce5066302935d16c73f5e510addd76 2bc6069be3c7695344e177415a23e3489ed0d274 ikkyuuq <kittipongprasompong@gmail.com> 1721826117 +0700	commit: feat: disable kitty terminal navigator
+2bc6069be3c7695344e177415a23e3489ed0d274 f4740cfaf81530c775a8151137dce06e86700dfa ikkyuuq <kittipongprasompong@gmail.com> 1721826156 +0700	commit: feat: try to add some custom snippet
+f4740cfaf81530c775a8151137dce06e86700dfa da4ff581409f81b3fa54539b18f702ac1bc8580f ikkyuuq <kittipongprasompong@gmail.com> 1721826175 +0700	commit: feat: disable bufferline
+da4ff581409f81b3fa54539b18f702ac1bc8580f dff44e79492797c5c6ba4fba1117a95b2ca21bc8 ikkyuuq <kittipongprasompong@gmail.com> 1721826195 +0700	commit: feat: update full catppuccin scheme
+dff44e79492797c5c6ba4fba1117a95b2ca21bc8 93d9a9c87095fd46bb1b116577519a2b062e07e9 ikkyuuq <kittipongprasompong@gmail.com> 1721826332 +0700	commit: fix: custom harpoon2 getting error with git clone
+93d9a9c87095fd46bb1b116577519a2b062e07e9 260060580a3eb24cd97f611cf86212604e1c1602 ikkyuuq <kittipongprasompong@gmail.com> 1721826359 +0700	commit: feat: just rearrange keymap
+260060580a3eb24cd97f611cf86212604e1c1602 eda87e6c51706c804f2fcbb9e2280cc7ca9c57a2 ikkyuuq <kittipongprasompong@gmail.com> 1721826377 +0700	commit: feat: adding luasnip to cmp to get custom snippets
+eda87e6c51706c804f2fcbb9e2280cc7ca9c57a2 83eeac1ab3194b31946e8b0e7fa77bcfa4dd5ab5 ikkyuuq <kittipongprasompong@gmail.com> 1721826402 +0700	commit: fix: just make it works
+83eeac1ab3194b31946e8b0e7fa77bcfa4dd5ab5 4f377c71917550831b59fbdd585f7ca47eb3f945 ikkyuuq <kittipongprasompong@gmail.com> 1721826431 +0700	commit: feat: add plugin hardtime make me better at vim motion
+4f377c71917550831b59fbdd585f7ca47eb3f945 e2d07e28de05fbde66c73f6b48988dc07d5b8201 ikkyuuq <kittipongprasompong@gmail.com> 1721826449 +0700	commit: feat: add quickscope plugin
+e2d07e28de05fbde66c73f6b48988dc07d5b8201 ced9535a28949a92b84bc057af2517dd3c31576e ikkyuuq <kittipongprasompong@gmail.com> 1722110558 +0700	commit: feat: add autocmd for filetype .razor and .cshtml
+ced9535a28949a92b84bc057af2517dd3c31576e 98d20c590ebb74befd5b18cf811ee4eff9bba6b5 ikkyuuq <kittipongprasompong@gmail.com> 1722110574 +0700	commit: feat: update keymaps
+98d20c590ebb74befd5b18cf811ee4eff9bba6b5 cc83e0101cca7df161069a046736b22dc306d213 ikkyuuq <kittipongprasompong@gmail.com> 1722110600 +0700	commit: feat: styling cmp window
+cc83e0101cca7df161069a046736b22dc306d213 48be2c5cb9ecc41df68d8b87ee6c153d2ed37dc5 ikkyuuq <kittipongprasompong@gmail.com> 1722110615 +0700	commit: fix: not enable when open buffer
+48be2c5cb9ecc41df68d8b87ee6c153d2ed37dc5 ad042b638ea4ae1f27c3327ba6ddb8b075b1bb31 ikkyuuq <kittipongprasompong@gmail.com> 1722110641 +0700	commit: feat: add FTerm for toggle terminal floating
+ad042b638ea4ae1f27c3327ba6ddb8b075b1bb31 6431a9b26bf83c4ec0c3881cbc180e8c8058195a ikkyuuq <kittipongprasompong@gmail.com> 1722110672 +0700	commit: feat: make it in single file for swaping terminal
+6431a9b26bf83c4ec0c3881cbc180e8c8058195a d1b648b7a4be6b3a46ae8d0c44402c5bb4efbf4a ikkyuuq <kittipongprasompong@gmail.com> 1722110696 +0700	commit: del: delete some plugin unused
+d1b648b7a4be6b3a46ae8d0c44402c5bb4efbf4a 5130d85eca9d0f3f2c42b3cd75403b2c8b7ee0a2 ikkyuuq <kittipongprasompong@gmail.com> 1722110940 +0700	pull --no-edit: Fast-forward
